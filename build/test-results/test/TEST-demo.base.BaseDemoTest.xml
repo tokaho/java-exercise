@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo.base.BaseDemoTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-11-24T03:46:43" hostname="TOKE-W11" time="0.011">
+  <properties/>
+  <testcase name="should_return_hello_world()" classname="demo.base.BaseDemoTest" time="0.009"/>
+  <testcase name="should_return_0()" classname="demo.base.BaseDemoTest" time="0.0"/>
+  <testcase name="should_return_2()" classname="demo.base.BaseDemoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
